@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status-page
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.lovelive-academy.com/_next/image?url=%2Fofficial_icon.webp&w=48&q=75
   name: ラブライブ！学会ステータスページ
   introTitle: "ラブライブ！学会ステータスページ"
   introMessage: ラブライブ！学会関連サイトのステータスです。
